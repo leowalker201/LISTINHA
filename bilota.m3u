@@ -2,14 +2,6 @@
 # Lista de Filmes M3U
 # Adicione novos blocos #EXTINF abaixo
 
-#EXTINF:-1 tvg-logo="https://pixeldrain.com/u/7KW2MhqK" group-title="movies", Banheiroo
-#EXTGRP:Filmes
-https://pixeldrain.com/u/sHwrZRZs
-
-#EXTINF:-1 tvg-logo="https://linkdoposter.com/poster2.jpg" group-title="spain", Nome do Filme 2
-#EXTGRP:Filmes
-http://link-do-filme2.com/playlist.m3u8
-
 #EXTINF:-1 group-title="Marvel Movies" tvg-logo="https://drive.google.com/file/d/1HseYtIC27bojymk865v0-1QmE1CSP780/view?usp=drivesdk",Thor: Love and Thunder (2022)
 http://tooontv.com:999/movie/ere3444h/agape/185862.mkv
 
