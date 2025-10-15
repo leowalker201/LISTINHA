@@ -1,15 +1,15 @@
 #EXTM3U
 # Lista de Filmes M3U
-# Atualize esta lista adicionando novos blocos #EXTINF abaixo
+# Adicione novos blocos #EXTINF abaixo
 
-#EXTINF:-1 tvg-logo="https://pixeldrain.com/u/7KW2MhqK" group-title="Filmes", Banheiro 1
+#EXTINF:-1 tvg-logo="https://pixeldrain.com/u/7KW2MhqK" group-title="movies", Banheiroo
+#EXTGRP:Filmes
 https://pixeldrain.com/u/sHwrZRZs
 
-#EXTINF:-1 tvg-logo="https://linkdoposter.com/poster2.jpg" group-title="Filmes", Nome do Filme 2
+#EXTINF:-1 tvg-logo="https://linkdoposter.com/poster2.jpg" group-title="spain", Nome do Filme 2
+#EXTGRP:Filmes
 http://link-do-filme2.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://linkdoposter.com/poster3.jpg" group-title="Filmes", Nome do Filme 3
+#EXTGRP:Filmes
 http://link-do-filme3.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="URL_DO_POSTER" group-title="Filmes", Nome do Filme
-URL_DO_FILME
