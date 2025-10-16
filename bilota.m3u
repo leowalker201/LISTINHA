@@ -1,19 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780" group-title="filmes",carassadda
-https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780" group-title="Filmes", Carassada1
-https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780" group-title="Filmes",carassada2
-https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780" group-title="Filmes", carassada3
-https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780", Carassada
 #EXTGRP:Filmes
 https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
@@ -23,7 +9,5 @@ https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
 #EXTGRP:Filmes
 https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
 
-#FILME 3
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780", Nome do Filme 3
-#EXTGRP:Filmes
-https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
+#EXTINF:-1 group-title="Marvel Movies" tvg-logo="https://image.tmdb.org/t/p/w400/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",Thor: Love and Thunder (2022)
+http://tooontv.com:999/movie/ere3444h/agape/185862.mkv
