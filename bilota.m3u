@@ -3,3 +3,20 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780" group-title="filmes",carassada
 https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
+
+
+#EXTM3U
+# Lista de Filmes M3U pronta para IBO Player
+# Adicione novos blocos seguindo o modelo abaixo
+
+#EXEMPLO 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780" group-title="Filmes", Carassada1
+https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
+
+#EXEMPLO 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780" group-title="Filmes", carassada2
+https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
+
+#EXEMPLO 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780" group-title="Filmes", carassada3
+https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
