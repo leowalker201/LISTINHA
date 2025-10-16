@@ -1,11 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780", Carassada
-#EXTGRP:Filmes
+#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780", testinho2
 https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
 
 #FILME 2
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780", Nome do Filme 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780", testinho3
 #EXTGRP:Filmes
 https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
 
