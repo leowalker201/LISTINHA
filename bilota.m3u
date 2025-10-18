@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780", testinho2
-https://drive.google.com/uc?export=download&id=1hnEZA4la7wR6enGlVB77w-3TWY6nSCeA
+#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780", nova
+https://goresee.com/download/videos/generate/d1ca5593-5437-4596-b241-5d7f0e6a6345?videoFileIds=62996
 
 #FILME 2
-#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780", testinho3
+#EXTINF:-1 tvg-id="" tvg-logo="https://drive.google.com/uc?export=download&id=1HseYtIC27bojymk865v0-1QmE1CSP780", carassada na manteiga
 #EXTGRP:Filmes
 https://github.com/leowalker201/ARQUIVOS/raw/refs/heads/main/20251011_204333.mp4
 
