@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="GORE" tvg-logo="https://image.tmdb.org/t/p/w400/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",EL PANTERA
+#EXTINF:-1 group-title="GORE" tvg-logo="https://github.dev/leowalker201/ARQUIVOS/blob/main/gore.png",EL PANTERA
 https://goresee.com/download/videos/generate/397ba45d-2783-4ade-b7fc-c373998b964b?videoFileIds=24518
 
-#EXTINF:-1 group-title="GORE" tvg-logo="https://image.tmdb.org/t/p/w400/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",EL PANTERA
-https://goresee.com/download
+#EXTINF:-1 group-title="GORE" tvg-logo="https://github.dev/leowalker201/ARQUIVOS/blob/main/gore.png",MANGUE 937
+https://goresee.com/download/videos/generate/cd9c9251-6441-480a-903b-421c0fef3ac0?videoFileIds=46459
