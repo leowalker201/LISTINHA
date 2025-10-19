@@ -1,4 +1,18 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://github.com/leowalker201/ARQUIVOS/raw/refs/heads/main/gore.png" group-title="Filmes - Ação",LILITH
-https://github.com/leowalker201/ARQUIVOS/raw/refs/heads/main/20251011_204333.mp4
+#EXTINF:-1 tvg-id="23631" tvg-logo="https://image.tmdb.org/t/p/w342/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg" group-title="Action;Comedy;Thriller",Machete (2010)
+http://zplaypro.lat:2095/movie/lhv0gwmkw/60279zplayer/364388.mp4
+#EXTINF:-1 tvg-id="509967" tvg-logo="https://image.tmdb.org/t/p/w342/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="Action;Comedy;Thriller",6 Underground (2019)
+http://zplaypro.lat:2095/movie/uqidqh4cw/45495zplayer/281298.mp4
+#EXTINF:-1 tvg-id="739405" tvg-logo="https://image.tmdb.org/t/p/w342/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg" group-title="Action;Comedy;Thriller",Operation Fortune: Ruse de Guerre (2023)
+http://zplaypro.lat:2095/movie/n13reer1w/88927zplayer/503382.mp4
+#EXTINF:-1 tvg-id="718930" tvg-logo="https://image.tmdb.org/t/p/w342/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg" group-title="Action;Comedy;Thriller",Bullet Train (2022)
+http://zplaypro.lat:2095/movie/7mqfxo19w/12815zplayer/931641.mp4
+#EXTINF:-1 tvg-id="924482" tvg-logo="https://image.tmdb.org/t/p/w342/S99eCSnRFfeZJmDaIGIZF58H7w.jpg" group-title="Thriller;Adventure",The Ledge (2022)
+http://zplaypro.lat:2095/movie/nta1ynrrw/56028zplayer/404115.mp4
+#EXTINF:-1 tvg-id="213" tvg-logo="https://image.tmdb.org/t/p/w342/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg" group-title="Thriller;Adventure",North by Northwest (1959)
+http://zplaypro.lat:2095/movie/ix3rwnkkw/80303zplayer/759953.mp4
+#EXTINF:-1 tvg-id="8698" tvg-logo="https://image.tmdb.org/t/p/w342/kdAuVFP63XXxnb983ry2pLCKd9S.jpg" group-title="Fantasy;Action;Thriller;Science Fiction",The League of Extraordinary Gentlemen (2003)
+http://zplaypro.lat:2095/movie/xkyg9nf7w/00614zplayer/332109.mp4
+#EXTINF:-1 tvg-id="346672" tvg-logo="https://image.tmdb.org/t/p/w342/v1ciDCWMG47gdT4kMyjyQbnLQQn.jpg" group-title="Fantasy;Action;Thriller;Science Fiction",Underworld: Blood Wars (2016)
+http://zplaypro.lat:2095/movie/2w6u0t2sw/88866zplayer/459927.mp4
+#er/247428.mp4
